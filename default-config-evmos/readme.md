@@ -1,3 +1,3 @@
 # change genesis.json file
-stake -> aevmos
+stake -> aevmos 
 aphoton -> aevmos
